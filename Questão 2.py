@@ -5,4 +5,4 @@ while contador<10:
     soma+=nota
     contador+=1
 media=soma/contador
-print(f"Sua média é: {media}")
+print(f"Sua média é: {media:.2f}")
